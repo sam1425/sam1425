@@ -13,3 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 https://github.com/sam1425/sam1425/blob/56c700dafdae49ed4631d2dfc2ed8a445d941ac3/github-contribution-grid-snake.svg
+https://raw.githubusercontent.com/sam1425/sam1425/56c700dafdae49ed4631d2dfc2ed8a445d941ac3/github-contribution-grid-snake.svg
