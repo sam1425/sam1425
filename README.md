@@ -2,13 +2,10 @@
 I am a pc enthusiast and next system engineer 
 
 <!--
-**sam1425/sam1425** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Hey wait how did you got here -.- are you a stalker???
 🌱 I’m currently learning C
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
 <div> 
