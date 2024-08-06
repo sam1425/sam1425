@@ -11,7 +11,3 @@ in self improvement you do not acomplish something reading a book or looking for
 - 💬 Ask me about ...
 - ⚡ Fun fact: ...
 -->
-<div> 
-  <a href = "mailto:sadasipa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-How to reach me
-![sam's snake](https://raw.githubusercontent.com/sam1425/sam1425/56c700dafdae49ed4631d2dfc2ed8a445d941ac3/github-contribution-grid-snake.svg)
