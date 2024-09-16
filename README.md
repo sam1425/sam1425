@@ -1,4 +1,6 @@
-# Hi, I'm Samuel! 👋
+# Hii, I'm Samuel
+
+but you can call me **sam**
 
 ## About Me
 
