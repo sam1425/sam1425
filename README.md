@@ -29,13 +29,14 @@ you can call me **sam** if you want thou
 
 ---
 
-<h3 align="left">social</h3>
-<p align="left">
-<a href="https://x.com/Sam4bytes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twiter.svg" alt="sab" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sab" height="30" width="40" /></a>
-<a href="https://discord.gg/sam4bytes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="san" height="30" width="40" /></a>
-</p>
+<div align="left"> 
+  <a href="" target=blank><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
+  <a href="https://www.instagram.com/sam__forz/" target=blank><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
+  <a href="" target=blank><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
+ 
+</div>
 
+###
 <!--
 Hey wait how did you get here -.- are you a stalker???
 if answer == yes
