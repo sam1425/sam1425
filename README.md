@@ -11,10 +11,7 @@ but you can call me **sam**
 
 ## Programming Knowledge
 
-- Languages: **Python**, **C**, HTML, CSS (working on JavaScript)
-- Tools: 
-- Terminal: **Kitty**
-
+- Languages: **Python**, **C**, HTML, CSS
 
 Feel free to text me anytime!
 
