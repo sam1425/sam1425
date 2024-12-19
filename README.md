@@ -11,9 +11,9 @@
 - 🌍 From Colombia
 - 💻 Self-taught programmer
 - 🐧 Arch Linux user, because why not?
-- 🔧 Passionate about **PC hardware**, **tech**, and **programming**
+- 🔧 Passionate about **hardware**, **tech**, and **programming**
   
-you can call me **sam** if you want thou
+you can call me **sam**!
 
 ## Code
 
@@ -44,7 +44,7 @@ if answer == yes
 
 now that you are already here take a cup of coffe and read some of theese phrases
 
-in self improvement you do not acomplish something reading a book or looking for the next video you just got better at convinsing yourself that you have
+in self improvement you do not acomplish anything by reading a book or looking for the next video to watch you just got better at convinsing yourself that you have
 
 - ⚡ Fun fact: ...
--->
+--> 
