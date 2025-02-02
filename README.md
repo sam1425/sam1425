@@ -4,7 +4,8 @@
 
 <!-- in your body -->
 <i class="devicon-devicon-plain"></i>
-# Hii, I'm Samuel Sierra
+# Hii, I'm Samuel(sam)
+
 
 ## About Me
 
@@ -12,8 +13,9 @@
 - 💻 Self-taught programmer
 - 🐧 Arch Linux user, because why not?
 - 🔧 Passionate about **hardware**, **tech**, and **programming**
+- 🔓 open source fan
   
-you can call me **sam**!
+
 
 ## Code
 
