@@ -26,10 +26,6 @@
 ---
 
 <div align="left"> 
-  <img src="icons/c.svg" alt="C language" height="50" width="50" />
-  <img src="icons/c++.svg" alt="C++ language" height="50" width="50" /> 
-  <img src="icons/python.png" alt="python" height="50" width="50" /> 
-  <img src="icons/bash.svg" alt="bash" height="50" width="50" /> 
 </div>
 
 ###
