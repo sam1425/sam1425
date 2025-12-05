@@ -9,6 +9,8 @@
     }
 </style>
 </header>
+<body>
+  
 <!-- in your body -->
 <i class="devicon-devicon-plain"></i>
 # Hii, I'm Samuel(sam)
@@ -37,6 +39,8 @@
 
 <div align="left"> 
 </div>
+</body>
+
 
 ###
 
