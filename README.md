@@ -1,16 +1,16 @@
 <header>
   <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-
-
-<style>
+  <style>
  .pixelart {
     image-rendering: pixelated;
     image-rendering: crisp-edges;
-}
-</style>
+    image-rendering: -moz-crisp-edges;
+  }
+  </style>
 </header>  
 <!-- in your body -->
 <i class="devicon-devicon-plain"></i>
+
 # Hii, I'm Samuel(sam)
 
 
