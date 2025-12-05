@@ -3,13 +3,12 @@
 
 
 <style>
-    canvas {
-        image-rendering: pixelated;
-    }
+ .pixelart {
+    image-rendering: pixelated;
+    image-rendering: crisp-edges; /* backup */
+}
 </style>
-</header>
-<body>
-  
+</header>  
 <!-- in your body -->
 <i class="devicon-devicon-plain"></i>
 # Hii, I'm Samuel(sam)
@@ -28,7 +27,7 @@
 ## Code
 
 <div align="left">
-  <img src="icons/clowres.png" height=50px width=50px/>        
+  <img src="icons/clowres.png" class="pixelart" height=50px width=50px/>        
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height=50px width=50px/>        
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height=50px width=50px/>        
 
@@ -38,8 +37,6 @@
 
 <div align="left"> 
 </div>
-</body>
-
 
 ###
 
