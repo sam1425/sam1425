@@ -27,7 +27,6 @@
 ## Code
 
 <div align="left">
-  <img src="icons/python.png" height=50px width=50px/>        
   <img src="icons/clowres.png" height=50px width=50px/>        
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height=50px width=50px/>        
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height=50px width=50px/>        
