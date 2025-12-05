@@ -20,22 +20,23 @@
 ## Code
 
 <div align="left">
-       <i class="devicon-c-line"></i>
+   <i class="devicon-c-line"></i>
 <i</div>
 
 ---
 
 <div align="left"> 
-  <a href="" target=blank><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
-  <a href="https://www.instagram.com/sam__forz/" target=blank><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
-  <a href="" target=blank><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
- 
+  <img src="icons/c.svg" alt="C language" height="50" width="50" />
+  <img src="icons/c++.svg" alt="C++ language" height="50" width="50" /> 
+  <img src="icons/python.svg" alt="python" height="50" width="50" /> 
+  <img src="icons/bash.svg" alt="bash" height="50" width="50" /> 
 </div>
 
 ###
+
 <!--
 Hey wait how did you get here -.- are you a stalker???
-if answer == yes
+if answer == yes:
   print("Ñ")
 
 now that you are already here take a cup of coffe and read some of theese phrases
