@@ -11,7 +11,7 @@
 
 - 🌍 From Colombia
 - 💻 Self-taught programmer
-- 🐧 Arch Linux user, because why not?
+- 🐧 Arch Linux user, because why not?  <img src="icons/arch.png" height=10px width=10px />        
 - 🔧 Passionate about **hardware**, **tech**, and **programming**
 - 🔓 open source fan
   
@@ -25,7 +25,6 @@
   <img src="icons/csharp.png" height=50px width=50px/>        
   <img src="icons/bash.png" height=50px width=50px/>        
   <img src="icons/luatool.png" height=50px width=50px/>        
-  <img src="icons/arch.png" height=50px width=50px />        
 </div>
 
 ---
