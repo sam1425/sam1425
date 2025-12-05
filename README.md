@@ -21,10 +21,10 @@
 
 <div align="left">
   <img src="icons/fullsizec.png" height=50px width=50px />        
+  <img src="icons/cpp.png" height=50px width=50px/>        
   <img src="icons/c#.png" height=50px width=50px/>        
   <img src="icons/bash.png" height=50px width=50px/>        
   <img src="icons/luatool.png" height=50px width=50px/>        
-
 </div>
 
 ---
