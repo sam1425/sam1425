@@ -21,8 +21,8 @@
 
 <div align="left">
   <img src="icons/fullsizec.png" height=50px width=50px />        
-  <img src="c#.png" height=50px width=50px/>        
-  <img src="bash.png" height=50px width=50px/>        
+  <img src="icons/#.png" height=50px width=50px/>        
+  <img src="icons/bash.png" height=50px width=50px/>        
 
 </div>
 
