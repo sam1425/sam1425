@@ -1,12 +1,14 @@
 <header>
   <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-</header>
+
+
 <style>
     /*Set canvas to use nearest neighbor scaling algorithm*/
     canvas {
         image-rendering: pixelated;
     }
 </style>
+</header>
 <!-- in your body -->
 <i class="devicon-devicon-plain"></i>
 # Hii, I'm Samuel(sam)
