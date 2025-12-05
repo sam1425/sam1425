@@ -1,7 +1,12 @@
 <header>
   <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 </header>
-
+<style>
+    /*Set canvas to use nearest neighbor scaling algorithm*/
+    canvas {
+        image-rendering: pixelated;
+    }
+</style>
 <!-- in your body -->
 <i class="devicon-devicon-plain"></i>
 # Hii, I'm Samuel(sam)
@@ -25,7 +30,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height=50px width=50px/>        
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height=50px width=50px/>        
 
-<i</div>
+</div>
 
 ---
 
