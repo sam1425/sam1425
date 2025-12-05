@@ -3,7 +3,6 @@
 
 
 <style>
-    /*Set canvas to use nearest neighbor scaling algorithm*/
     canvas {
         image-rendering: pixelated;
     }
