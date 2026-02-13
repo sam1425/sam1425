@@ -9,11 +9,11 @@
 
 ## About Me
 
-- 🌍 From Colombia
+- 🇨🇴 From Colombia
 - 💻 Self-taught programmer
--  <a href="https://archlinux.org/"><img src="icons/arch.png" width="20px" height="20px" alt="C logo"></a> Arch Linux user, because why not?      
+-  <a href="https://archlinux.org/"><img src="icons/arch.png" width="20px" height="20px" alt="C logo"></a> Arch Linux user, because why not? it has all the software ill ever need.      
 - 🔧 Passionate about **hardware**, **tech**, and **programming**
-- 🔓 open source fan
+- 🔓 FOSS lover
   
 
 
